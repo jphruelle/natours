@@ -1,2 +1,0 @@
-# natours
-natours vers heroku
